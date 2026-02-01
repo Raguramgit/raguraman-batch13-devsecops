@@ -114,6 +114,11 @@ After completing each task or module, you must:
 - **Aditya Jaiswal**
 - **DevOps Shack**
 
+***Once you tag Aditya Jaiswal and DevOps Shack, I get notified.
+I personally review your task, your approach, and your GitHub repository based on the effort and clarity shown.***
+
+**Note**: Reviews are effort-based, not automatic. Quality > quantity.
+
 Use hashtags such as:
 ```
 #Batch13 #DevOps #DevSecOps #LearnInPublic
