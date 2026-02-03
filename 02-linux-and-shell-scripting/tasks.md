@@ -6,12 +6,6 @@ required for DevOps and Cloud roles.
 Tasks combine **hands-on execution** with **necessary understanding**
 to prepare you for real production environments.
 
----
-# Module 2 – Tasks | Linux & Shell Scripting
-
-These 25 tasks cover **everything taught in Module-2**.
-Each task focuses on **one clear concept** so learning feels simple and structured.
-
 Complete tasks in sequence.
 
 ---
