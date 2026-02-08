@@ -98,18 +98,40 @@ Inside each module folder:
 ```
 ---
 ## 🌍 Learn in Public (Mandatory)
+**Share Updates on Discord & Amplify on LinkedIn**
+
+Learning in isolation limits your growth.
+To increase visibility, consistency, and reach, every Batch-13 learner is expected to share progress updates inside the Discord community and amplify the same learning on LinkedIn.
 
 After completing each task or module, you must:
 ### 1. Push your work to your forked GitHub repo
+### 2. Share Progress in Discord (Mandatory)
+After completing a task or module:
 
-### 2. Create a LinkedIn post explaining:
+Post a short update in the Batch-13 Discord channel
+
+Share:
+
+- What task you completed
+- What you struggled with
+- Any blockers or doubts
+- GitHub link (if pushed)
+### 3. Create a LinkedIn post explaining:
 
 - What you learned
 - What problem you solved
 - What mistake you made
 - How this is used in real production systems
 
-### 3. Tag:
+**Why this matters:**
+
+- You learn faster by explaining
+- Others learn from your mistakes
+- Mentors and peers can guide you
+- Your consistency becomes visible
+- Silent learners don’t get noticed. Visible learners do.
+
+### 4. Tag:
 
 - **Aditya Jaiswal**
 - **DevOps Shack**
@@ -170,3 +192,4 @@ If you complete this repository seriously:
 
 **Welcome to Batch-13.**
 **Build. Share. Grow. 🚀**
+
