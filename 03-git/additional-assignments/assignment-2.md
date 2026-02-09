@@ -295,9 +295,13 @@ Students must submit:
 ## **Success Criteria**
 
 ✔ Branches created locally and remotely
+
 ✔ Feature work isolated from `main`
+
 ✔ Git diff used correctly
+
 ✔ Branch renamed and deleted safely
+
 ✔ Clear understanding of real-world branching
 
 
